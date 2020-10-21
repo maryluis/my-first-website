@@ -86,10 +86,6 @@ font-size: 15px;
   justify-content: center;
   overflow: auto;
   border-bottom: none;
-  background-attachment: fixed;
-  background-position: center;
-  background-repeat: no-repeat;
-  background-size: cover;
 }
 
 @media (min-aspect-ratio:16/9) {
@@ -117,10 +113,6 @@ font-size: 15px;
   -moz-user-select: none;
   -ms-user-select: none;
   -user-select: none;
-  background-attachment: fixed;
-  background-position: center;
-  background-repeat: no-repeat;
-  background-size: cover;
   z-index:0;
 }
 
