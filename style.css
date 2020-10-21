@@ -150,6 +150,8 @@ font-size: 15px;
   -user-select: none;
   align-items: center;
   text-align: center;
+  margin-top: auto;
+  margin-bottom: auto;
 }
 
 #ABOUT a{
@@ -158,8 +160,10 @@ font-size: 15px;
   font-family:monospace;
   font-size: 20px;
   letter-spacing: 3px;
+  width: 400px;
+  margin-right: auto;
+  margin-left: auto;
   margin: center;
-  margin-top: 5rem;
   display: inline-block;
   padding: 2rem 4rem;
   text-align: center;
@@ -195,4 +199,8 @@ font-size: 15px;
   background: #326771;
   display: inline-block;
   width: 100%;
+}
+
+#RESERVE .cname{
+
 }
