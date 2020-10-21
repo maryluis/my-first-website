@@ -51,7 +51,7 @@ nav{
 }
 
 .navlinks a{
-  text-decoration: none;
+text-decoration: none;
 color: #F2E5D7;
 font-family:monospace;
 font-size: 15px;
@@ -138,21 +138,61 @@ font-size: 15px;
 
 #ABOUT{
   height: 100vh;
-  background: #DB3A34;
+  background: #CE796B;
   display: inline-block;
   width: 100%;
+  color: #F2E5D7;
+  font-family:monospace;
+  font-size: 15px;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  -user-select: none;
+  align-items: center;
+  text-align: center;
+}
+
+#ABOUT a{
+  text-decoration: none;
+  color: #323031;
+  font-family:monospace;
+  font-size: 20px;
+  letter-spacing: 3px;
+  margin: center;
+  margin-top: 5rem;
+  display: inline-block;
+  padding: 2rem 4rem;
+  text-align: center;
+}
+
+#ABOUT h2{
+  font-size: 20px;
+  margin: center;
+}
+
+#ABOUT h1{
+  font-size: 30px;
+}
+
+#ABOUT p{
+  font-size: 1rem;
+  color: #F2E5D7;
+  font-family: monospace;
+  font-size: 20px;
+  margin: auto;
+  text-align: center;
 }
 
 #MENU{
   height: 100vh;
-  background: pink;
+  background: #9EB7E5;
   display: inline-block;
   width: 100%;
 }
 
 #RESERVE{
   height: 100vh;
-  background: red;
+  background: #326771;
   display: inline-block;
   width: 100%;
 }
