@@ -15,16 +15,16 @@ html{
 }
 
 nav{
-  position: fixed;
-  display: flex;
-  align-items: center;
-  justify-content: space-around;
-  min-height: 9vh;
-  width: 100%;
-  font-family: monospace;
-  background-color: #323031;
-  opacity: 95%;
-  z-index: 3;
+   position: fixed;
+   display: flex;
+   align-items: center;
+   justify-content: space-around;
+   min-height: 9vh;
+   width: 100%;
+   font-family: monospace;
+   background-color: #323031;
+   opacity: 95%;
+   z-index: 3;
 }
 
 .logo{
