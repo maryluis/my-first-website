@@ -85,7 +85,7 @@ font-size: 15px;
   align-items: center;
   justify-content: center;
   overflow: auto;
-  border: none;
+  border-bottom: none;
 }
 
 @media (min-aspect-ratio:16/9) {
